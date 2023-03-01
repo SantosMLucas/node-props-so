@@ -1,0 +1,19 @@
+{
+  "name": "props-so",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantosMLucas/node-props-so.git"
+  },
+  "author": "Lucas de Martino Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantosMLucas/node-props-so/issues"
+  },
+  "homepage": "https://github.com/SantosMLucas/node-props-so#readme"
+}
